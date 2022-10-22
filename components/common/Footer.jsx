@@ -24,16 +24,14 @@ const Footer = () => {
                   <a href="#">Home</a>
                 </li>
                 <li>
-                  <a href="#">About Us</a>
+                  <a href="#about">About Us</a>
                 </li>
                 <li>
-                  <a href="#">Services</a>
+                  <a href="#services">Services</a>
                 </li>
+
                 <li>
-                  <a href="#">Blog</a>
-                </li>
-                <li>
-                  <a href="#">Contact Us</a>
+                  <a href="#contact">Contact Us</a>
                 </li>
               </ul>
             </div>
@@ -47,13 +45,14 @@ const Footer = () => {
                   <a href="#">FAQ</a>
                 </li>
                 <li>
-                  <a href="#">Get In Touch </a>
+                  <a href="#">Privacy & Policy</a>
                 </li>
                 <li>
-                  <a href="#">Product List</a>
+                  <a href="#">Refund Policy</a>
                 </li>
+
                 <li>
-                  <a href="#">Pricing Plans</a>
+                  <a href="#contact">Get In Touch </a>
                 </li>
               </ul>
             </div>
