@@ -6,8 +6,7 @@ const Navbar = () => {
       <nav
         className="navbar navbar-expand-lg fixed-top bg-body-tertiary"
         style={{
-          boxShadow:
-            "rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px",
+          boxShadow: "rgba(100, 100, 111, 0.2) 0px 7px 29px 0px",
         }}
       >
         <div className="container p-lg-4">
