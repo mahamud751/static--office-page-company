@@ -2,7 +2,13 @@ import style from "../styles/Common.module.css";
 export default function Home() {
   return (
     <div>
-      <section>
+      <section
+        style={{
+          background: "rgb(255,255,255)",
+          background:
+            "linear-gradient(25deg, rgba(255,255,255,1) 0%, rgba(249,255,249,1) 100%)",
+        }}
+      >
         <div className="container">
           <div
             className="d-flex justify-content-center align-items-center"
